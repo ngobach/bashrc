@@ -5,7 +5,7 @@ My favored bashrc file.
 ## Install
 
 ```bash
-curl -sSL "https://raw.githubusercontent.com/thanbaiks/bashrc/master/bashrc" > ~/.bashrc
+curl -sSL "https://raw.githubusercontent.com/thanbaiks/bashrc/master/.bashrc" > ~/.bashrc
 ```
 
 ## Tested with
